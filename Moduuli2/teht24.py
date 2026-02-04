@@ -4,5 +4,4 @@ kolmasluku = float(input("Sano vielä kolmas:"))
 summa = ekaluku+kolmasluku+tokaluku
 tulo = ekaluku*kolmasluku*tokaluku
 keskiarvo = summa/3
-print("Lukujesi summa on ", str(summa) + ", tulo on " + str(tulo)
-      + " ja keskiarvo on " + str(keskiarvo))
+print(f"Lukujesi summa on {summa} tulo on {tulo} ja keskiarvo on {keskiarvo}")
