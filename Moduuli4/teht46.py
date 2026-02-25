@@ -1,6 +1,6 @@
 import random
 
-pisteet = int(input("Anna arvottavien pisteiden määrä: "))
+pisteet = int(input("Montako pistettä arvotaan: "))
 # laskurit
 ympyras = 0
 laskuri = 0
